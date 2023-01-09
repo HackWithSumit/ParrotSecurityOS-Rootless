@@ -10,5 +10,6 @@
 
         apt-get update && apt-get upgrade -y
 
-<br>
+2. Install Wget: 
 
+         apt-get install wget proot git curl -y
