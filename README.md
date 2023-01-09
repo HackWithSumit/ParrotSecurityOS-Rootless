@@ -13,3 +13,7 @@
 2. Install Wget: 
 
          apt-get install wget proot git curl -y
+
+3. Download Script:
+
+         git clone https://github.com/HackWithSumit/Parrot-Security-OS--Rootless.git
