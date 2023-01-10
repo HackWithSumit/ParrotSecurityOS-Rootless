@@ -1,7 +1,7 @@
 # Parrot-Security-OS--Rootless
 <br>
 
-![image](https://user-images.githubusercontent.com/120317751/211311057-4f09589f-4f8c-418a-b11b-74f45101d6eb.png)
+![images-removebg-preview](https://user-images.githubusercontent.com/120317751/211474833-887a636e-3596-4172-9f60-b182030244a1.png)
 <br>
 <br>
 <B> Installation Guide: 
