@@ -4,8 +4,13 @@
 ![images-removebg-preview](https://user-images.githubusercontent.com/120317751/211474833-887a636e-3596-4172-9f60-b182030244a1.png)
 <br>
 <br>
+REQUIREMENTS:
+1. Termux: 
+2. Files:
+<br>
 <B> Installation Guide: 
 <br>
+
 1. Update Termux :  
 
         apt-get update && apt-get upgrade -y
