@@ -5,8 +5,9 @@
 <br>
 <br>
 REQUIREMENTS:
-1. Termux: 
-2. Files:
+1. Termux: https://f-droid.org/repo/com.termux_118.apk
+2. Files: https://play.google.com/store/apps/details?id=com.marc.files&hl=en_IN&gl=US&pli=1
+
 <br>
 <B> Installation Guide: 
 <br>
