@@ -22,7 +22,7 @@ REQUIREMENTS:
 
 3. Download Script:
 
-         git clone https://github.com/HackWithSumit/Parrot-Security-OS--Rootless.git
+         git clone https://github.com/HackWithSumit/Parrot-Security-OS-Rootless.git
 
 4. Go to script folder: 
          
